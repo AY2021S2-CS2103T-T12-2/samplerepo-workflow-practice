@@ -10,3 +10,4 @@
 ## Accomplishments
 
 * I implemented a payment system that helps automates daily transaction. 
+* I helped to clean up their database.
