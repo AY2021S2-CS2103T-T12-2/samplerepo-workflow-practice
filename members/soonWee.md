@@ -11,3 +11,4 @@
 
 * I implemented a payment system that helps automates daily transaction. 
 * I helped to clean up their database.
+* I helped to analyse their code complexity.
